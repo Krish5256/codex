@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>KM GROUPS</title>
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+</head>
+<body>
+   <header>
+  <div class="container">
+  <div class="navbar">
+    <div class="logo">
+      <img src="main.png" width="300px" height="300px">
+    </div>
+    <nav>
+      <ul>
+        <li class="active"><a href="#"><i class="fa fa-home">Home</a></li></i>
+        <li><a href="product.html"><i class="fa fa-mobile-phone">Product</a></li></i>
+        <li><a href="#"><i class="fa fa-shopping-cart">Cart</i></a></li>
+        <li><a href="#"><i class='fas fa-user-alt'>Account</a></li></i>
+      </ul>
+    </nav>
+  </div>
+
+  <section>
+    <form action="" class="search-bar">
+      <input type="text" placeholder="Search in Food Bazaar" name="q">
+      <button type="submit"><i2 class="fa fa-search"></i></button>
+    </form>
+    </section>
+    <marquee scrollamount="5">Free Home Delivery within Janakpur. 7 Days Offer, 40% Off On Our Special Catogries.</marquee>
+    <div class="row">
+      <div class="col-2">
+        <h1 class="animate__heartBeat"><span>Give Your Food </span><br>A&nbsp; New Taste!!</h1>
+        <p>Success is lomdu. dont follow the path of success. otherwise you'll become aakhand chutiya.</p>
+        <a href="" class="btn">Explore Now</a>
+      </div>
+      <div class="col-2">
+        <img src="/burger.png">
+        </div>
+    </div>
+   </header>
+   <div class="div1">
+  <div class="categories">
+    <div class="small-container">
+    </div>
+         <div class="row">
+           <div class="col-3">
+             <img src="/box1.jpg">
+           </div>
+           <div class="col-3">
+             <img src="/box2.jpg">
+           </div>
+           <div class="col-3">
+             <img src="/box3.jpg">
+           </div>
+           </div>
+         </div>
+  </div>
+  </div>
+  <div class="small-container">
+    <h2><span>FEATURED</span><span2>PRODUCTS</span></h2>
+    <div class="row">
+      <div class="col-4">
+         <a href="#"><img src="/biryani.jpg"></a>
+        <h4>Mutton Biyani</h4>
+        <div class="rating">
+          <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="far fa-star"></i>
+          </div>
+        <p>Rs.499</p>
+      </div>
+       <div class="col-4">
+          <a href="#"><img src="/cpizza.jpeg"></a>
+         <h4>Extra Cheesy Pizza</h4>
+         <div class="rating">
+           <i class="fas fa-star"></i>
+             <i class="fas fa-star"></i>
+             <i class="fas fa-star"></i>
+             <i class="fas fa-star"></i>
+             <i class="fas fa-star"></i>
+         </div>
+         <p>Rs.400</p>
+    </div>
+     <div class="col-4">
+         <a href="#"><img src="/grilled.jpg"></a>
+       <h4>Grilled Chicken</h4>
+       <div class="rating">
+           <i class="fas fa-star"></i>
+           <i class="fas fa-star"></i>
+           <i class="fas fa-star"></i>
+           <i class="fas fa-star"></i>
+           <i class="fas fa-star"></i>
+       </div>
+       <p>Rs.399</p>
+  </div>
+   <div class="col-4">
+     <a href="#"><img src="/matka.jpg"></a>
+     <h4>Matka Mutton Biryani</h4>
+     <div class="rating">
+        <i class="fas fa-star"></i>
+         <i class="fas fa-star"></i>
+         <i class="fas fa-star"></i>
+         <i class="fas fa-star"></i>
+         <i class="fas fa-star"></i>
+     </div>
+     <p>Rs.599</p>
+   </div>
+    </div>
+  </div>
+</body>
+</html>
+ 
